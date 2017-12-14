@@ -1,12 +1,13 @@
 # Icatis
 
-This is a simple trainning purpose project for reusing vcl 
-api and windows OS. 
+This is a simple training purpose project for reusing the
+vcl api and windows OS. This is a french language
+application. 
 
-# Requierements
+# Requirements
 
 * C++ Builder Starter edition
-* Firebird SQL >= 2.5 ( older version may can work )
+* Firebird SQL >= 2.5 ( older version may work )
 
 # Compilation
 
