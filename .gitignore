@@ -1,0 +1,9 @@
+src/Win32
+src/__astcache/
+src/__history/
+__history/
+src/__recovery/
+src/icatis.cbproj.local
+src/icatis.res
+
+
