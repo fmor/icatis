@@ -1,8 +1,9 @@
 # Icatis
 
 This is a simple training purpose project for reusing the
-vcl api and windows OS. This is a french language
-application. 
+vcl api and windows OS. It use firebird c api to connect
+to database, so need to have more than a free editioon of
+c++ builder. This is a french language application. 
 
 # Requirements
 
