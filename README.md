@@ -2,8 +2,8 @@
 
 This is a simple training purpose project for reusing the
 vcl api and windows OS. It use firebird c api to connect
-to database, so need to have more than a free editioon of
-c++ builder. This is a french language application. 
+to database, so no need to have more than a free editioon
+of c++ builder. This is a french language application. 
 
 # Requirements
 
@@ -16,7 +16,8 @@ This project relies on Firebird database and need to
 have static library fbclient_bor.lib available for the
 linker.
 
-The lib can be found here on 32 os.
+On 32 bits and with defautl firebird install, this library
+can be found here :
 
-	C:\Program Files (x86)\Firebird\Firebird_2_5\bin
+	C:\Program Files (x86)\Firebird\Firebird_2_5\lib
 
